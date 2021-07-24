@@ -71,8 +71,6 @@ https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
 MUSICA
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png",Conecta TV * | MX
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png",Conecta TV * | MX
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",Recuerdos Retro Radio TV * | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png",Retro Plus TV  | CL
