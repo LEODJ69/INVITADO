@@ -1,31 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-logo="https://i.imgur.com/15gMDG0.png" group-title="Undefined",PowerHD (720p)
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://latinosradio.cl/wp-content/uploads/2020/10/cropped-logo-latinos-radio-resaltado.png" group-title="Musica",Latinos Radio TV - Xtrema TV
+https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="MasFM.ar" tvg-logo="https://i.imgur.com/TJ4gWQM.png" group-title="Musica",Más FM 95.9 (720p)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 tvg-id="DanceTV.ar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="Musica",Tu Musica HD
 https://vdo2.streamgato.us:3886/stream/play.m3u8
-#EXTINF:-1 tvg-id="CadenaCoversClasicos.ar" tvg-logo="https://i.imgur.com/CC1MFt6.png" group-title="Musica",Cadena Cover's Clásicos (360p)
-https://stmv1.cnarlatam.com/ccovers/ccovers/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UKMR625.png" group-title="Musica",Dance TV (360p)
 https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",Dance TV - Xtrema TV
-https://stmv1.cnarlatam.com/danncetv/danncetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",PJ Digital - Xtrema TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/115726.png" group-title="Musica",PJ Digital - Xtrema TV
 https://vdo1.panelstreaming.live:3363/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z6srIMD.png" group-title="Musica",Global TV (1080p)
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",Global TV - Xtrema TV
-https://stmv.video.gmpro.top/global/global/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",Latinos Radio TV - Xtrema TV
-https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WlhCN7e.png" group-title="Musica",Super Classics TV (360p)
 https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",Super Classics TV - Xtrema TV
-https://stmv1.cnarlatam.com/megaclassics/megaclassics/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RcbIgA0.png" group-title="Musica",Más Música TV (360p)
-https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",Más Música - Xtrema TV
-https://stmv1.cnarlatam.com/televideo/televideo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Musica",Rock Teka TV - Xtrema TV
+#EXTINF:-1 tvg-id="CadenaCoversClasicos.ar" tvg-logo="https://i.imgur.com/CC1MFt6.png" group-title="Musica",Cadena Cover's Clásicos (360p)
+https://stmv1.cnarlatam.com/ccovers/ccovers/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://xtrematv.com/wp-content/uploads/2023/07/rockteka.jpg" group-title="Musica",Rock Teka TV - Xtrema TV
 https://stmv1.cnarlatam.com/sdntv/sdntv/playlist.m3u8
