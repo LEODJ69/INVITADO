@@ -1,415 +1,171 @@
 #EXTM3U
-#EXTINF:-1,ESPN
-http://45.228.234.193:16000/play/a0e2/index.m3u8
-#EXTINF:-1,ESPN +
-http://45.228.234.193:16000/play/a0bx/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.228.234.193:16000/play/a0e3/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://45.228.234.193:16000/play/a0f7/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.228.234.193:16000/play/a0d9/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://45.228.234.193:16000/play/a0f6/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.228.234.193:16000/play/a0eo/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.228.234.193:16000/play/a0f1/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.228.234.193:16000/play/a0f5/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://45.228.234.193:16000/play/a0ch/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://45.228.234.193:16000/play/a0f8/index.m3u8
-#EXTINF:-1,FOX Sports 2
-http://45.228.234.193:16000/play/a0da/index.m3u8
-#EXTINF:-1,ESPN
-http://45.228.232.219:16000/play/a0n7/index.m3u8
-#EXTINF:-1,ESPN +
-http://45.228.232.219:16000/play/a0me/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.228.232.219:16000/play/a0n8/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.228.232.219:16000/play/a0l1/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.228.232.219:16000/play/a0o0/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://45.228.232.219:16000/play/a0oc/index.m3u8
-#EXTINF:-1,046 ESPN +
-http://45.228.232.205:16000/play/a030/index.m3u8
-#EXTINF:-1,047 ESPN 2 HD
-http://45.228.232.205:16000/play/a07t/index.m3u8
-#EXTINF:-1,048 ESPN 3 HD
-http://45.228.232.205:16000/play/a07s/index.m3u8
-#EXTINF:-1,049 ESPN 4 HD
-http://45.228.232.205:16000/play/a07n/index.m3u8
-#EXTINF:-1,050 ESPN HD
-http://45.228.232.205:16000/play/a07r/index.m3u8
-#EXTINF:-1,ESPN
-http://45.179.194.114:48003/play/a00u/index.m3u8
-#EXTINF:-1,ESPN 2
-http://45.179.194.114:48003/play/a02u/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://45.179.194.114:48003/play/a00t/index.m3u8
-#EXTINF:-1,ESPN 3
-http://45.179.194.114:48003/play/a00h/index.m3u8
-#EXTINF:-1,ESPN 4
-http://45.179.194.114:48003/play/a0x9/index.m3u8
-#EXTINF:-1,ESPN CO
-http://45.179.194.114:48003/play/a023/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://45.179.194.114:48003/play/a013/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://45.179.194.114:48003/play/a014/index.m3u8
-#EXTINF:-1,ESPN
-http://45.177.111.66:8050/play/a0np
-#EXTINF:-1,ESPN 2
-http://45.177.111.66:8050/play/a0px
-#EXTINF:-1,ESPN 2 Latin
-http://45.177.111.66:8050/play/a0no
-#EXTINF:-1,ESPN 3
-http://45.177.111.66:8050/play/a0nb
-#EXTINF:-1,ESPN 4
-http://45.177.111.66:8050/play/a0p7
-#EXTINF:-1,ESPN CO
-http://45.177.111.66:8050/play/a0m1
-#EXTINF:-1,ESPN 2 HD
-http://45.166.92.22:58001/play/a01i/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://45.166.92.22:58001/play/a01h/index.m3u8
-#EXTINF:-1,ESPN HD
-http://45.166.92.22:58001/play/a01g/index.m3u8
-#EXTINF:-1,Fox Sports HD
-http://45.166.92.22:58001/play/a02m/index.m3u8
-#EXTINF:-1,ESPN
-http://201.222.44.219:4226/play/a073/index.m3u8
-#EXTINF:-1,ESPN +
-http://201.222.44.219:4226/play/a03p/index.m3u8
-#EXTINF:-1,ESPN 2
-http://201.222.44.219:4226/play/a074/index.m3u8
-#EXTINF:-1,ESPN 3
-http://201.222.44.219:4226/play/a062/index.m3u8
-#EXTINF:-1,ESPN 4
-http://201.222.44.219:4226/play/a08b/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://201.222.44.219:4226/play/a08o/index.m3u8
-#EXTINF:-1,ESPN
-http://200.60.83.197:8000/play/a05v
-#EXTINF:-1,ESPN
-http://200.60.83.197:8000/play/a00l
-#EXTINF:-1,ESPN 2 HD
-http://200.60.83.197:8000/play/a02s
-#EXTINF:-1,ESPN 2 HD
-http://200.60.83.197:8000/play/a01k
-#EXTINF:-1,ESPN 2 HD
-http://200.60.83.197:8000/play/a01g
-#EXTINF:-1,ESPN 3
-http://200.60.83.197:8000/play/a028
-#EXTINF:-1,ESPN 3 HD
-http://200.60.83.197:8000/play/a02q
-#EXTINF:-1,ESPN 4
-http://200.60.83.197:8000/play/a07u
-#EXTINF:-1,ESPN 4
-http://200.60.83.197:8000/play/a072
-#EXTINF:-1,ESPN 4 HD
-http://200.60.83.197:8000/play/a03a
-#EXTINF:-1,ESPN EXTRA HD
-http://200.60.83.197:8000/play/a04b
-#EXTINF:-1,ESPN HD
-http://200.60.83.197:8000/play/a03g
-#EXTINF:-1,ESPN HD
-http://200.60.83.197:8000/play/a01o
-#EXTINF:-1,ESPN2
-http://200.60.83.197:8000/play/a058
-#EXTINF:-1,ESPN2
-http://200.60.83.197:8000/play/a057
-#EXTINF:-1,Fox Sports 1
-http://200.60.83.197:8000/play/a05x
-#EXTINF:-1,Fox Sports 1 HD
-http://200.60.83.197:8000/play/a09f
-#EXTINF:-1,Fox Sports 3
-http://200.60.83.197:8000/play/a08p
-#EXTINF:-1,Fox Sports 3 HD
-http://200.60.83.197:8000/play/a02r
-#EXTINF:-1,TNT SPORTS 2
-http://200.60.83.197:8000/play/a07t
-#EXTINF:-1,TNT SPORTS 3
-http://200.60.83.197:8000/play/a073
-#EXTINF:-1,TNT SPORTS HD
-http://200.60.83.197:8000/play/a01f
-#EXTINF:-1,ESPN 2 HD
-http://200.58.170.69:58001/play/a05e/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://200.58.170.69:58001/play/a05a/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://200.58.170.69:58001/play/a05y/index.m3u8
-#EXTINF:-1,ESPN 2 Latin SD
-http://200.58.170.69:58001/play/a0dl/index.m3u8
-#EXTINF:-1,ESPN 2 SD
-http://200.58.170.69:58001/play/a0co/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://200.58.170.69:58001/play/a05w/index.m3u8
-#EXTINF:-1,ESPN 3 SD
-http://200.58.170.69:58001/play/a0gf/index.m3u8
-#EXTINF:-1,ESPN 4
-http://200.58.170.69:58001/play/a0ek/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://200.58.170.69:58001/play/a07d/index.m3u8
-#EXTINF:-1,ESPN 4 SD
-http://200.58.170.69:58001/play/a0dk/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://200.58.170.69:58001/play/a08y/index.m3u8
-#EXTINF:-1,ESPN HD
-http://200.58.170.69:58001/play/a05i/index.m3u8
-#EXTINF:-1,ESPN HD
-http://200.58.170.69:58001/play/a07j/index.m3u8
-#EXTINF:-1,ESPN HD
-http://200.58.170.69:58001/play/a0a0/index.m3u8
-#EXTINF:-1,ESPN SD
-http://200.58.170.69:58001/play/a0dm/index.m3u8
-#EXTINF:-1,ESPN
-http://200.123.15.177:1982/play/a00y/index.m3u8
-#EXTINF:-1,ESPN 2
-http://200.123.15.177:1982/play/a00n/index.m3u8
-#EXTINF:-1,ESPN 3
-http://200.123.15.177:1982/play/a01z/index.m3u8
-#EXTINF:-1,ESPN 4
-http://200.123.15.177:1982/play/a01j/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://200.123.15.177:1982/play/a02t/index.m3u8
-#EXTINF:-1,ESPN STAR PLUS
-http://200.123.15.177:1982/play/a03x/index.m3u8
-#EXTINF:-1,ESPN
-http://190.83.119.67:8000/play/a035/index.m3u8
-#EXTINF:-1,ESPN +
-http://190.83.119.67:8000/play/a01l/index.m3u8
-#EXTINF:-1,ESPN 2
-http://190.83.119.67:8000/play/a036/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.83.119.67:8000/play/a03w/index.m3u8
-#EXTINF:-1,ESPN 3
-http://190.83.119.67:8000/play/a02g/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.83.119.67:8000/play/a03v/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.83.119.67:8000/play/a03u/index.m3u8
-#EXTINF:-1,ESPN PLUS HD
-http://190.83.119.67:8000/play/a050/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://190.83.119.67:8000/play/a03f/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://190.83.119.67:8000/play/a03x/index.m3u8
-#EXTINF:-1,FOX Sports 2
-http://190.83.119.67:8000/play/a02h/index.m3u8
-#EXTINF:-1,ESPN +
-http://190.61.91.81:5000/play/a08k/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.61.91.81:5000/play/a06v/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.61.91.81:5000/play/a06u/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://190.61.91.81:5000/play/a07v/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.61.91.81:5000/play/a06t/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.61.57.2:1010/play/a01d/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://190.61.57.2:1010/play/a01n/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://190.61.57.2:1010/play/a020/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://190.61.57.2:1010/play/a031/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.61.57.2:1010/play/a02c/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://190.61.57.2:1010/play/a04i/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://190.61.57.2:1010/play/a01o/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.61.43.118:45000/play/a053
-#EXTINF:-1,ESPN 3 HD
-http://190.61.43.118:45000/play/a051
-#EXTINF:-1,ESPN 4
-http://190.61.43.118:45000/play/a06w
-#EXTINF:-1,ESPN EXTRA HD
-http://190.61.43.118:45000/play/a01v
-#EXTINF:-1,ESPN HD
-http://190.61.43.118:45000/play/a01l
-#EXTINF:-1,FOX Sports 2 HD
-http://190.61.43.118:45000/play/a01g
-#EXTINF:-1,ESPN
-http://190.14.251.57:8282/play/a0mc/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://190.14.251.57:8282/play/a0mb/index.m3u8
-#EXTINF:-1,ESPN 2 Latin HD
-http://190.14.251.57:8282/play/a0r9/index.m3u8
-#EXTINF:-1,ESPN 3
-http://190.14.251.57:8282/play/a0o7/index.m3u8
-#EXTINF:-1,ESPN 4
-http://190.14.251.57:8282/play/a0m6/index.m3u8
-#EXTINF:-1,ESPN CO
-http://190.14.251.57:8282/play/a0m3/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://190.14.251.57:8282/play/a0qa/index.m3u8
-#EXTINF:-1,ESPN
-http://181.78.85.7:16123/play/ch16
-#EXTINF:-1,ESPN2
-http://181.78.85.7:16123/play/ch17
-#EXTINF:-1,ESPN3
-http://181.78.85.7:16123/play/ch18
-#EXTINF:-1,ESPN4
-http://181.78.85.7:16123/play/ch19
-#EXTINF:-1,FOX SPORTS 2
-http://181.78.85.7:16123/play/ch20
-#EXTINF:-1,FOX SPORTS 3
-http://181.78.85.7:16123/play/ch21
-#EXTINF:-1,ESPN 2 HD
-http://181.78.74.19:8008/play/a032/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.78.74.19:8008/play/a02u/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.78.74.19:8008/play/a02s/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.78.74.19:8008/play/a030/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://181.78.74.19:8008/play/a04j/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://181.78.74.19:8008/play/a03d/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.74.19:8008/play/a02w/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.78.74.19:8008/play/a04n/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://181.78.74.19:8008/play/a03z/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://181.78.74.19:8008/play/a031/index.m3u8
-#EXTINF:-1,ESPN
-http://181.78.105.146:6060/play/a036
-#EXTINF:-1,ESPN +
-http://181.78.105.146:6060/play/a027
-#EXTINF:-1,ESPN 2
-http://181.78.105.146:6060/play/a037
-#EXTINF:-1,ESPN 3
-http://181.78.105.146:6060/play/a00x
-#EXTINF:-1,ESPN 4
-http://181.78.105.146:6060/play/a043
-#EXTINF:-1,ESPN 4 HD
-http://181.78.105.146:6060/play/a04l
-#EXTINF:-1,ESPN
-http://181.204.79.182:9609/play/a01n
-#EXTINF:-1,ESPN 2
-http://181.204.79.182:9609/play/a031
-#EXTINF:-1,ESPN 2 Latin
-http://181.204.79.182:9609/play/a01m
-#EXTINF:-1,ESPN 3
-http://181.204.79.182:9609/play/a02f
-#EXTINF:-1,ESPN CO
-http://181.204.79.182:9609/play/a03h
-#EXTINF:-1,Fox Sports 1 HD
-http://181.177.255.253:8000/play/a031/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://181.177.255.253:8000/play/a05a/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://181.177.255.253:8000/play/a05b/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://181.177.255.253:8000/play/a00t/index.m3u8
-#EXTINF:-1,ECDF SD
-http://181.177.255.253:8000/play/a06g/index.m3u8
-#EXTINF:-1,ESPN
-http://181.177.255.253:8000/play/a04r/index.m3u8
-#EXTINF:-1,ESPN 2
-http://181.177.255.253:8000/play/a04f/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.177.255.253:8000/play/a00b/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.177.255.253:8000/play/a00u/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://181.177.255.253:8000/play/a00f/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://181.177.255.253:8000/play/a04q/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.177.255.253:8000/play/a06x/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://181.177.255.253:8000/play/a00s/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.177.255.253:8000/play/a05o/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://181.177.255.253:8000/play/a01b/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://181.177.255.253:8000/play/a01s/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.177.255.253:8000/play/a00j/index.m3u8
-#EXTINF:-1,ESPN HD
-http://181.177.255.253:8000/play/a01h/index.m3u8
-#EXTINF:-1,ESPN +
-http://179.49.112.195:58001/play/a018
-#EXTINF:-1,ESPN 4 HD
-http://179.49.112.195:58001/play/a03z
-#EXTINF:-1,ESPN
-http://168.228.194.117:58001/play/a039/index.m3u8
-#EXTINF:-1,ESPN +
-http://168.228.194.117:58001/play/a01k/index.m3u8
-#EXTINF:-1,ESPN 3
-http://168.228.194.117:58001/play/a01u/index.m3u8
-#EXTINF:-1,ESPN2
-http://168.228.194.117:58001/play/a038/index.m3u8
-#EXTINF:-1,ESPN
-http://138.94.253.154:8055/play/a03a/index.m3u8
-#EXTINF:-1,ESPN +
-http://138.94.253.154:8055/play/a01p/index.m3u8
-#EXTINF:-1,ESPN 2
-http://138.94.253.154:8055/play/a03b/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://138.94.253.154:8055/play/a05g/index.m3u8
-#EXTINF:-1,ESPN 3
-http://138.94.253.154:8055/play/a02d/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://138.94.253.154:8055/play/a05f/index.m3u8
-#EXTINF:-1,ESPN 4
-http://138.94.253.154:8055/play/a03x/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://138.94.253.154:8055/play/a04f/index.m3u8
-#EXTINF:-1,ESPN HD
-http://138.94.253.154:8055/play/a05e/index.m3u8
-#EXTINF:-1,ESPN
-http://138.59.224.12:4000/play/a0se/index.m3u8
-#EXTINF:-1,ESPN
-http://138.59.224.12:4000/play/a0m6/index.m3u8
-#EXTINF:-1,ESPN 2
-http://138.59.224.12:4000/play/a0m5/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://138.59.224.12:4000/play/a0mr/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://138.59.224.12:4000/play/a0sd/index.m3u8
-#EXTINF:-1,ESPN 3
-http://138.59.224.12:4000/play/a0ti/index.m3u8
-#EXTINF:-1,ESPN 3
-http://138.59.224.12:4000/play/a0m7/index.m3u8
-#EXTINF:-1,ESPN 3 HD
-http://138.59.224.12:4000/play/a0mt/index.m3u8
-#EXTINF:-1,ESPN 4
-http://138.59.224.12:4000/play/a0sx/index.m3u8
-#EXTINF:-1,ESPN CO
-http://138.59.224.12:4000/play/a0t6/index.m3u8
-#EXTINF:-1,ESPN Extra HD
-http://138.59.224.12:4000/play/a0qq/index.m3u8
-#EXTINF:-1,ESPN HD
-http://138.59.224.12:4000/play/a0ms/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://138.59.224.12:4000/play/a0qs/index.m3u8
-#EXTINF:-1,Fox Sports
-http://138.59.224.12:4000/play/a0pz/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://138.59.224.12:4000/play/a0sm/index.m3u8
-#EXTINF:-1,Fox Sports 2
-http://138.59.224.12:4000/play/a0m8/index.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-http://138.59.224.12:4000/play/a0mu/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://138.59.224.12:4000/play/a0sn/index.m3u8
-#EXTINF:-1,Fox Sports 3
-http://138.59.224.12:4000/play/a0oi/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://138.59.224.12:4000/play/a0pi/index.m3u8
-#EXTINF:-1,Fox Sports HD
-http://138.59.224.12:4000/play/a0qr/index.m3u8
+#EXTINF:-1,06- ANTENA 3 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336171
+#EXTINF:-1,08- EUROSPORT 1 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336443
+#EXTINF:-1,10- EUROSPORT 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336445
+#EXTINF:-1,13- GOL TV 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336890
+#EXTINF:-1,M+ DEPORTES 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/439996
+#EXTINF:-1,M+ DEPORTES HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442148
+#EXTINF:-1,NBA TV CANADA  (24 HORAS DE TRANSMISION )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445819
+#EXTINF:-1,NBA TV HD   (24 HORAS DE TRANSMISION )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445820
+#EXTINF:-1,NBA  (TNT)  24 HORAS DE TRANSMISION 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445821
+#EXTINF:-1,NBA 1 -  (24  HORAS DE TRANSMISION)
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445822
+#EXTINF:-1,NBA 2 -  (24 HORAS DE TRANSMISION )
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/445823
+#EXTINF:-1,POLICIAS EN ACCIÓN 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453280
+#EXTINF:-1,EQUIPO DE INVESTIGACIÓN 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453279
+#EXTINF:-1,PADRE DE FAMILIA 24H
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453278
+#EXTINF:-1,FUTURAMA 24H HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453277
+#EXTINF:-1,LOS SIMPSON 24H HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453276
+#EXTINF:-1,31- M. ESTRENOS HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336291
+#EXTINF:-1,32- M + CINE FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336292
+#EXTINF:-1,20- M. ACCION HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336293
+#EXTINF:-1,21- M. ACCION FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336294
+#EXTINF:-1,27- M. COMEDIA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336296
+#EXTINF:-1,28- M. COMEDIA FHD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336297
+#EXTINF:-1,29- M. DRAMA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336299
+#EXTINF:-1,33- M. PLUS +HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336301
+#EXTINF:-1,37-M+ SUSPENSE2 HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336303
+#EXTINF:-1,35- M. SERIES HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336311
+#EXTINF:-1,25- M. CLASICOS HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336314
+#EXTINF:-1,04- AXN HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336316
+#EXTINF:-1,02- AMC HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336322
+#EXTINF:-1,06- AXN WHITE HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336324
+#EXTINF:-1,16- FOX HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336326
+#EXTINF:-1,42- SYFY
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336329
+#EXTINF:-1,01- ATRES SERIES 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336330
+#EXTINF:-1,11- COMEDY CENTRAL HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336333
+#EXTINF:-1,41- SUNDANCE 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336346
+#EXTINF:-1,08- BOM CINE
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336347
+#EXTINF:-1,39- PARAMOUNT NETWORK 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336474
+#EXTINF:-1,MOVISTAR DOCUMENTALES HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451958
+#EXTINF:-1,MOVISTAR DOCUMENTALES SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451959
+#EXTINF:-1,MOVISTAR INDIE SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451962
+#EXTINF:-1,MOVISTAR CRACKS SD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/451963
+#EXTINF:-1,TYC SPORTS I
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454771
+#EXTINF:-1,TYC SPORTS II
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454772
+#EXTINF:-1,TV PUBLICA I
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454773
+#EXTINF:-1,VENEVISION |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454774
+#EXTINF:-1,TNT SPORT |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454775
+#EXTINF:-1,TNT SPORTS 2 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454776
+#EXTINF:-1,CHILEVISION |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454777
+#EXTINF:-1,CHILEVISION SD |Exclusivo|
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454778
+#EXTINF:-1,12- AMC CRIME
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/109763
+#EXTINF:-1,14- DARK HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336451
+#EXTINF:-1,18- HISTORIA HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336471
+#EXTINF:-1,32- NAT GEO WILD HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336477
+#EXTINF:-1,30- NATIONAL GEOGRAPHIC HD
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336479
+#EXTINF:-1,05- DISNEY CHANNEL 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336571
+#EXTINF:-1,06- DISNEY JUNIOR
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336572
+#EXTINF:-1,08- NICKELODEON
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336574
+#EXTINF:-1,01- BABY TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336582
+#EXTINF:-1,NICK JR
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/427762
+#EXTINF:-1,Rakuten TV
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437513
+#EXTINF:-1, Rakuten Comedia
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437515
+#EXTINF:-1,Rakuten Family
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/437518
+#EXTINF:-1,Estrenos Info
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442069
+#EXTINF:-1,Estrenos 1
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442070
+#EXTINF:-1,Estrenos 2
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442071
+#EXTINF:-1,Estrenos 3
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442072
+#EXTINF:-1,Estrenos 4
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442073
+#EXTINF:-1,Estrenos 5
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442074
+#EXTINF:-1,Estrenos 6
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442075
+#EXTINF:-1,Estrenos 7
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442076
+#EXTINF:-1,Estrenos 8
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442077
+#EXTINF:-1,Estrenos 9
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442078
+#EXTINF:-1,Estrenos 10
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442079
+#EXTINF:-1,07- DREAMWORKS
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/336581
+#EXTINF:-1,Estrenos 11
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442092
+#EXTINF:-1,Estrenos 12
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442093
+#EXTINF:-1,Estrenos 13
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442094
+#EXTINF:-1,Estrenos 14
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442095
+#EXTINF:-1,Estrenos 15
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442096
+#EXTINF:-1,Estrenos 16
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/442097
+#EXTINF:-1,Rakuten Acción 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/452692
+#EXTINF:-1,RAKUTEN PELIS A LA CARTA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454595
+#EXTINF:-1,RAKUTEN DRAMA
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454596
+#EXTINF:-1,RAKUTEN THRILLERS 
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454597
+#EXTINF:-1,RAKUTEN ROMANTICO
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/454598
