@@ -11,3 +11,5 @@ https://www.googleapis.com/drive/v3/files/1tK7QnpvNn_VK0Ig_SxJwGgWJMYnQLnsY?alt=
 https://stream-52.zeno.fm/zs1ynrtnsuhvv?
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e0511f90044d4f8ab68c85ba74838d5f~mv2.png"group-title="BOLIVIA",Ayni TV (LP)
 https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8
+#EXTINF:-1 tvg-logo="https://in.tv.bo/wp-content/uploads/2023/06/cropped-jcjknkl.png.pagespeed.ce.C47TH4N7dK.png"group-title="BOLIVIA",IN TV (LP)
+https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
