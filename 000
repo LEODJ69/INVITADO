@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/022/451/250/small/settings-error-icon-3d-render-png.png"group-title="",ERROR
 https://video.wixstatic.com/video/71cd54_0c5dd2fc6e7e4d19a1b9d5c59b46cd1a/480p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://www.sccbolivia.com/wp-content/uploads/2020/09/xtotv-tx-inicio.png"group-title="BOLIVIA",XTOTV (LP)
+http://190.104.15.135/0.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tJ8F8XJL/339934625-6637234786303842-283053087769760685-n-removebg-preview.png"group-title="VARIEDADES",ITV Patagonia CL
+https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mlhyh9qYd28y5lJJCRRwyLP1pr3.jpg" tvg-group="INFANTIL",Power Rangers: Ayer, hoy y siempre
+https://www.googleapis.com/drive/v3/files/1tK7QnpvNn_VK0Ig_SxJwGgWJMYnQLnsY?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5b82076b337b4c83a148146421ad4fcf~mv2.png"group-title="RADIOS",MundoMix
+https://stream-52.zeno.fm/zs1ynrtnsuhvv?
