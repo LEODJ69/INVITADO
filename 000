@@ -481,3 +481,242 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_1045e40ee9f9492ea5f0fbac4ae32d7d~mv2.png"group-title="CINE",TVS
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+CINE
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3a6cdbdbacc4437c80f1961df3924fa9~mv2.png"group-title="VARIEDADES",TVE HD
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_720.m3u8
+#EXTINF:-1 tvg-logo="http://mindlessones.com/wp-content/uploads/2013/10/vlcsnap-00003.jpg"group-title="CINE",DRWHO ES
+https://bbceu-doctorwho-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png"group-title="VARIEDADES",EURO ES | La 1
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/La_2_HD.png"group-title="VARIEDADES",EURO ES | La 2
+https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"group-title="VARIEDADES",EstrellaTV
+https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7e246954d9fe48499e855a5be77e3800~mv2.png"group-title="CINE",RetroXTV
+https://glb.bozztv.com/glb/ssh101/retroxcr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/RETRO-TV-PALMARES.png"group-title="CINE",TV RETRO PALMARES
+https://fl1002.bozztv.com/ssh101/tvretropalm2020/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg"group-title="CINE",Tele Clasica TV
+https://fl1002.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5dc2-PKEM_9f3szjWTo_tXAPmvmLyP841J2hQ12QVLeiDAdRAIBJTqaV5juoy82wlWs&usqp=CAU"group-title="CINE",Mi TV Television Clasica
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e265354bb8ec438ab41d83136f0fa376~mv2.png"group-title="CINE",TIGUERITOS
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_823556fb90544941b954dd53095d9c34~mv2.png"group-title="CINE",UVATVHD
+https://glb.bozztv.com/glb/ssh101/tvhduva/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c237da47f96444c29c0ac60ef72fb737~mv2.png"group-title="CINE",PILAR STREAMING
+https://fl1002.bozztv.com/ssh101/pilarensehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_407fc178771540f28711fb49517a95b4~mv2.png" group-title="CINE",MyTimeMoviesNetwork ES
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_407fc178771540f28711fb49517a95b4~mv2.png" group-title="CINE",MyTimeMoviesNetwork MX
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://planetaradiotv.com/wp-content/uploads/2021/08/cropped-logo-new-Planeta-2-114x83.png"group-title="CINE",PlanetaRadioTV
+https://glb.bozztv.com/glb/ssh101/planeta55tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6a8732e4a00b41cfac6e10066b21f76e~mv2.png" group-title="CINE",Mutivisión Televisión Digital
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_969c9b125bfb4bc9917f14f4ab0ef4cf~mv2.png"group-title="CINE",GenTV HD
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_52efbf86f41a450681b5dbb9a1f5fb67~mv2.png"group-title="CINE",ORBIT TV HD
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ca1c8ebed29c448596450c24f7c16a26~mv2.png"group-title="CINE",COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/origentv.png"group-title="VARIEDADES",Origen TV
+https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/12/CINEMUNDO.jpg" group-title="CINE",Cine mundo+
+https://stream-cdn-iad2.vaughnsoft.net/play/live_cinemundo_plus.flv
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_23f9a92ff34e4cd0b55e89aec4860b1c~mv2.png" group-title="CINE",Peliculas mania
+https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_915011c561d44b4daf84f5e2b34ad153~mv2.png" group-title="CINE",Terror mania
+https://stream-cdn-iad2.vaughnsoft.net/play/live_terror_mania.flv
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/terror-tv.png "group-title="CINE",TerrorTV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1 tvg-logo="https://neotv.cl/assets/img/channels/mascine.png"group-title="CINE",+CINE
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/mega-cine-tv.png" group-title="CINE",MEGA CineTV
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-512.png" group-title="CINE",Netflix
+https://stream-cdn-iad2.vaughnsoft.net/play/live_a_neflix01.flv
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e1dd14a17fb5410493daf51cb940c901~mv2.png" group-title="VARIEDADES",ASTRO NET RUMBO AL ESPACIO
+https://stmv6.voxtvhd.com.br/astronet/astronet/chunklist_w806230995.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_aad6db392531481b9a3b051aae5f4d2a~mv2.png" group-title="CINE",Multivision HD
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c7432c706b0f4990903a754eb61e4e7e~mv2.png"group-title="CINE",RAKUTEN TV
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CINE",LA | Runtime Peliculas
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CINE",LA | Runtime Accion
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CINE",LA | Runtime Comedia
+https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CINE",LA | Runtime Crimen
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CINE",LA | Runtime Terror
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CINE",LA | Runtime Romance
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+#EXTINF:-1, tvg-logo="https://m.media-amazon.com/images/I/51xeNXguMqL.png" group-title="CINE",LA | Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png"group-title="CINE",SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d03f65e41f9848a4809c107737681125~mv2.png"group-title="CINE",SONY CHANNEL SD
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d03f65e41f9848a4809c107737681125~mv2.png"group-title="CINE",SONY CHANNEL HD
+http://38.41.8.1:8000/play/a007
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d03f65e41f9848a4809c107737681125~mv2.png"group-title="CINE",SONY CHANNEL SD R-EX
+http://38.41.8.1:8000/play/a05w
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d03f65e41f9848a4809c107737681125~mv2.png"group-title="CINE",SONY CHANNEL HD
+http://160.20.165.245:8000/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_275a0ab1e04a4e69832506aa3a945e8f~mv2.png"group-title="CINE",SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_275a0ab1e04a4e69832506aa3a945e8f~mv2.png"group-title="CINE",SONY NOVELAS
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_69763739a3d346568156d138c0e61df6~mv2.png"group-title="CINE",SONY COMPETENCIAS
+https://spt-competencias-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/uploads/2019/11/19152919/LA-ROSA-DE-GUADALUPE-480X480.png"group-title="VARIEDADES",LA ROSA DE GUADALUPE
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="VARIEDADES",Kanal D Drama (1080p)
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb553d167a6c648f9fd43e61d1ef41a6d3243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27750c39e0a957f378bbdbe306f2c180680585ee2be5da5edf55c148e3aa2b14d1c882c4de5d65fc8d549ed9d865bca419b74a01c9ec3a583d2168787c4011e66884661c9faf2f8fa1bb1e61fd1f89565308a782934663f8490b28e80b81b253931cbf0deab6dbf32c38c37886336c16df0da05beeb19cc25a6a17ea1b7f99f2ad5b82aa529000bda93848feb3421a967f6a7e7c97c3c9df3545446895dd9386158c2b9a375f52d0087cd4e65e4c964e5f2670475f48323a5deac479937c3c4f5d7114371530518bc90c3f062f626c771a4c2126e090314edd262cd88dd5127710fa8b41e854355e980cbb4d6006d9e3b5b42be34901b247cdc38694be02fd2932823dc755dcb666bbb101ea876d19460b5abd2ee037b92dbc449f026af9602c0f90fac226d0b54fda2620f0b1c3de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db49f17ad1e33ae0dd0c1ef3f6c76365c3f6c43bb6797a2822f9ce6b7/53/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="VARIEDADES",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/rakutenviki.png"group-title="VARIEDADES",Rakuten viki
+https://newidco-rakutenviki-3-mx.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/wBvHWB7.png"group-title="VARIEDADES",TNT Novelas
+http://200.59.188.3:8000/play/a02r
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c3dadb1ffff74982a54d9aaa852104ba~mv2.png"group-title="VARIEDADES",TLNovelas
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c3dadb1ffff74982a54d9aaa852104ba~mv2.png"group-title="VARIEDADES",TLNovelas
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png"group-title="VARIEDADES",Todo Novelas
+https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pixart360.com/w/wp-content/uploads/2019/10/televisa.png"group-title="VARIEDADES",Televisa
+http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.pixart360.com/w/wp-content/uploads/2019/10/televisa.png"group-title="VARIEDADES",Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="VARIEDADES",UNIVISIÓN HD
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="VARIEDADES",UNIVISIÓN HD
+http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7342d96a56b849d187276da30b26c23d~mv2.png"group-title="VARIEDADES",UNIVISIÓN CD
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canalesenvivo.neocities.org/ImagenesWeb/logoRcn.png"group-title="VARIEDADES",RCN
+http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_b2d477c8888b4167b0ab208465af0b6b~mv2.png"group-title="VARIEDADES",RCN Novelas R-EX
+http://38.41.8.1:8000/play/a070
+#EXTINF:-1 tvg-logo="https://rcn-images.ercdn.net//content/v/Vr/2128/Logo.png?v=638240718056256153"group-title="VARIEDADES",RCN EXTRA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://rcn-images.ercdn.net//content/v/Vr/2128/Logo.png?v=638240718056256153"group-title="VARIEDADES",RCN EXTRA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="VARIEDADES",RCN Más
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="VARIEDADES",RCN+
+https://rcntv-rcnmas-1-us.roku.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="VARIEDADES",TELEMUNDO INTERNACIONAL
+http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="VARIEDADES",TELEMUNDO HD
+http://160.20.165.245:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_5fbe403cd58d44ca9a88d1be6ce8fd7b~mv2.png"group-title="VARIEDADES",TELEMUNDO HD
+http://38.41.8.1:8000/play/a083
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="VARIEDADES",TELEMUNDO PuertoRico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png"group-title="VARIEDADES",TELEMUNDO PuertoRico SD
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9098c16148894b46ad5bcd06cbb4cb52~mv2.png"group-title="CINE",PLANETA MOVIES
+https://tls-cl.cdnz.cl/movie/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8cb3e5e1719347c481a4d078552f1977~mv2.png"group-title="CINE",HBO R-EX
+http://38.41.8.1:8000/play/a05u
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_261d61c95f944ea699fb2950bf1e483f~mv2.png"group-title="CINE",HBO2
+http://38.41.8.1:8000/play/a021
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_261d61c95f944ea699fb2950bf1e483f~mv2.png"group-title="CINE",HBO2
+http://38.41.8.1:8000/play/a05h
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png"group-title="CINE",HBO FAMILY
+http://38.41.8.1:8000/play/a05k
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png"group-title="CINE",HBO FAMILY
+http://38.41.8.1:8000/play/a031
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_9f03130322ea4e9e9f3e469f73d0bf97~mv2.png"group-title="CINE",HBO PLUS R-EX
+http://38.41.8.1:8000/play/a05i
+#EXTINF:-1 tvg-logo="https://images.tigocloud.net/j1bxozgharz5/bo5RJ7YmLwGEdeLFUb9AGqbv/a68a44a99b2e0d482a8acde710494264/ic-hbo-premium-xtreme.svg"group-title="CINE",HBO XTREME HD
+http://38.41.8.1:8000/play/a032
+#EXTINF:-1 tvg-logo="https://images.tigocloud.net/j1bxozgharz5/bo5RJ7YmLwGEdeLFUb9AGqbv/a68a44a99b2e0d482a8acde710494264/ic-hbo-premium-xtreme.svg"group-title="CINE",HBO XTREME SD R-EX
+http://38.41.8.1:8000/play/a05j
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_edbf0919a2324203845e177d9265c6d0~mv2.png"group-title="CINE",A&E SD
+http://38.41.8.1:8000/play/a006
+#EXTINF:-1 tvg-logo=""group-title="CINE",AMC (1080p)
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/AMC_HD.png",|ES| AMC
+http://sansat.net:88/02029761595924/9d089925dc60a821/127710
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1600px-AMC_logo_2016.svg.png"group-title="CINE",|US| AMC Fast 2
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d9563e52c77c48e094ec1f01cf4a70e1~mv2.png"group-title="CINE",AMC HD
+http://181.78.8.90:16123/play/ch13
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_d9563e52c77c48e094ec1f01cf4a70e1~mv2.png"group-title="CINE",AMC SD
+http://38.41.8.1:8000/play/a01s
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ae1516e506214cc7b997ac501e12edc3~mv2.png"group-title="VARIEDADES",Animal Planet SD
+http://181.78.8.90:16123/play/ch29
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ae1516e506214cc7b997ac501e12edc3~mv2.png"group-title="VARIEDADES",Animal Planet HD
+http://38.41.8.1:8000/play/a023
+#EXTINF:-1 group-title="VARIEDADES", tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/COMEDY_CENTRAL.png",|SP| COMEDY CENTRAL HD
+http://sansat.net:88/02029761595924/9d089925dc60a821/127700
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_24aefe34b56f47fdad98fa7e792c98c6~mv2.png"group-title="VARIEDADES",Comedy Central
+http://38.41.8.1:8000/play/a00z
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_4c5a4407aac64d5e974aec594eb8f081~mv2.png"group-title="CINE",CINECANAL HD
+http://38.41.8.1:8000/play/a01r
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_3b5734f5b9394eccb4a3203d0167548d~mv2.png"group-title="CINE",DHE HD
+http://38.41.8.1:8000/play/a02x
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_31205a98f7334548be9bb838ca21253e~mv2.png"group-title="VARIEDADES",Discovery Theater
+http://38.41.8.1:8000/play/a018
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6303528c6e684b09b4202a9f6e65f62d~mv2.png"group-title="VARIEDADES",Discovery ID
+http://38.41.8.1:8000/play/a071
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_845994f732e346e3be777525f507574a~mv2.png"group-title="VARIEDADES",Discovery Channel
+http://38.41.8.1:8000/play/a07l
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_6f799dd0527f40c18d665aa487f471ad~mv2.png"group-title="VARIEDADES",E Intertainment R-EX
+http://38.41.8.1:8000/play/a07o
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_c6d06eada326414294bee5a63a0b60a5~mv2.png"group-title="CINE",FX HD
+http://38.41.8.1:8000/play/a01h
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ed3b83a39e964616a74f7cbf294fc4b5~mv2.png"group-title="VARIEDADES",Golden HD
+http://38.41.8.1:8000/play/a028
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ed3b83a39e964616a74f7cbf294fc4b5~mv2.png"group-title="VARIEDADES",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES", tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/HISTORIA.png",|ES| HISTORY CHANNEL
+http://sansat.net:88/02029761595924/9d089925dc60a821/127758
+#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg"group-title="VARIEDADES",History Channel HD
+http://38.41.8.1:8000/play/a005
+#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg"group-title="VARIEDADES",History Channel SD R-EX
+http://38.41.8.1:8000/play/a04p
+#EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg"group-title="VARIEDADES",History Channel 2
+http://38.41.8.1:8000/play/a030
+#EXTINF:-1 group-title="VARIEDADES", tvg-logo="http://www.vodkom.com:25461/Logo/ESPANOL/LOGO/NAT_GEO_HD.png",|ES| NATIONAL GEOGRAPHIC
+http://sansat.net:88/02029761595924/9d089925dc60a821/127759
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f0f3d519fa854399b6c23b1f607ba361~mv2.png"group-title="VARIEDADES", National Geographic HD
+http://38.41.8.1:8000/play/a01p
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_f0f3d519fa854399b6c23b1f607ba361~mv2.png"group-title="VARIEDADES", National Geographic SD R-EX
+http://38.41.8.1:8000/play/a04o
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_8fd5b03aa946495ba9005da35e9483ea~mv2.png"group-title="CINE",Paramount HD
+http://38.41.8.1:8000/play/a01x
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e79dab85944c4c6985201c07b93d8347~mv2.png"group-title="CINE",Start Channel HD
+http://38.41.8.1:8000/play/a019
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_e79dab85944c4c6985201c07b93d8347~mv2.png"group-title="CINE",Start Channel SD R-EX
+http://38.41.8.1:8000/play/a04w
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_95d1859c60c5489e95158453a186889c~mv2.png"group-title="CINE",STUDIO UNIVERSAL R-EX
+http://38.41.8.1:8000/play/a05n
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_baf585cced0f47e6b5bd6a820b2853ba~mv2.png"group-title="CINE",TNT SD R-EX
+http://38.41.8.1:8000/play/a04z
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_dc53cbdf0245460b863017952d2679fb~mv2.png"group-title="CINE",TNT SERIES
+http://38.41.8.1:8000/play/a01g
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7bb650acc7e4467a89166f12f5a26be3~mv2.png"group-title="CINE",UNIVERSAL CHANNEL HD
+http://38.41.8.1:8000/play/a01a
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7bb650acc7e4467a89166f12f5a26be3~mv2.png"group-title="CINE",UNIVERSAL CHANNEL SD R-EX
+http://38.41.8.1:8000/play/a04r
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_7bb650acc7e4467a89166f12f5a26be3~mv2.png"group-title="CINE",UNIVERSAL CINEMA SD
+http://38.41.8.1:8000/play/a05q
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_ca96a46beb0e4fefbc3b09bd0810ca80~mv2.png"group-title="VARIEDADES",UNIVERSAL COMEDY SD
+http://38.41.8.1:8000/play/a05r
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_aa9353bc358143bc9ddaee7c004f4754~mv2.png"group-title="CINE",UNIVERSAL PREMIERE SD
+http://38.41.8.1:8000/play/a05p
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="CINE",WARNER TV HD
+http://38.41.8.1:8000/play/a008
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="CINE",WARNER TV SD
+http://38.41.8.1:8000/play/a07n
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a0450e_2b02138544be4e898ed46b2322a24a8d~mv2.png"group-title="CINE",WARNER TV SD
+http://181.78.105.146:2000/play/a01f/index.m3u8
